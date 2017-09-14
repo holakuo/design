@@ -150,7 +150,7 @@
 
 		a:hover {
 			text-decoration: none;
-			color: #019be3;
+			color: #FF5511;
 		}
 
 	strong, b {
@@ -360,7 +360,7 @@
 		button:hover,
 		.button:hover {
 			color: #FFF;
-			background: #019be3;
+			background: #FF5511;
 		}
 
 		input[type="submit"].alt,
